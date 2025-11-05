@@ -17,17 +17,20 @@ A simple and interactive **Quiz App** built using **HTML**, **CSS**, **JavaScrip
 
 ## 🌐 Demo
 
-[Live Demo Link](https://dineshsinghdhami.com.np/quiz-app/)
+- [Live Demo Link](https://dineshsinghdhami.com.np/quiz-app/)
 
 ---
 
-## 📂 File Structure
+## 📁 Project Structure
 
-quiz-app
-
-├── index.html  
-├── style.css   
-├── script.js   
+```
+quiz-app/
+│
+├── index.html
+├── style.css
+├── script.js
+└── screenshot.png
+``` 
 
 ---
 
@@ -40,5 +43,8 @@ quiz-app
 
 ---
 
-## 👤 Author
-- **Dinesh Singh Dhami**
+## ©️ Copyright
+
+- All rights reserved © 2025 **[Dinesh Singh Dhami](https://www.dineshsinghdhami.com.np)**
+- This project is licensed for personal and educational use.
+- For commercial use or redistribution, please contact the owner.
